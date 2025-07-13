@@ -15,5 +15,6 @@ Python solutions for basic array problems – Day 2 of DSA practice series.
 - Count how many times the max element appears
 - Count how many elements are equal to the average
 
+Language: Python 🐍
 
   

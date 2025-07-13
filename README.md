@@ -6,5 +6,14 @@ Python solutions for basic array problems – Day 2 of DSA practice series.
 - Find the second largest element
 - Left rotate the array by 1
 - Count frequency of each element
-- Find the minimum element in the array
-- 
+- Find the maximum element in the array
+- Count how many elements are less than a given number
+- Print elements at odd indices
+- Print all odd numbers from the array
+- Find the second smallest element
+- Right rotate the array by 1
+- Count how many times the max element appears
+- Count how many elements are equal to the average
+
+
+  

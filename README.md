@@ -6,5 +6,5 @@ Python solutions for basic array problems – Day 2 of DSA practice series.
 - Find the second largest element
 - Left rotate the array by 1
 - Count frequency of each element
-
-Language: Python 🐍
+- Find the minimum element in the array
+- 

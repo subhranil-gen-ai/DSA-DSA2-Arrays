@@ -17,4 +17,8 @@ Python solutions for basic array problems – Day 2 of DSA practice series.
 
 Language: Python 🐍
 
-  
+# Author
+Subhranil Dutta
+CSE | GenAI & DSA Learner | Python Developer  
+🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
+
